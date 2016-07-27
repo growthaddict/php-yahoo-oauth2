@@ -1,0 +1,9 @@
+{
+  "name": "php-yahoo-oauth2",
+  "description": "Oauth for Yahoo Gemini",
+  "autoload": {
+    "classmap": {
+      "Gemini": "YahooOAuth2.class.php"
+    }
+  }
+}
